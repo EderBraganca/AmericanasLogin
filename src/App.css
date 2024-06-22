@@ -1,0 +1,107 @@
+body{
+  margin: 0;
+  padding: 0;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 10.5px;
+  font-weight: 400;
+  display: flex;
+  justify-content: center;
+}
+
+.topbar{
+  color: white;
+  background-color: #F80032;
+  height: 12vh;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+}
+
+.topLogo{
+  height: 100%;
+  margin-left: 13vw;
+}
+
+.formLogin{
+  font-size: 12px;
+  margin-top: 17vh;
+  width: 25vw;
+}
+
+.inputSection{
+  display: flex;
+  justify-content: start;
+  flex-direction: column;
+}
+
+.inputSection label{
+  color: rgb(102, 102, 102);
+  font-size: 12px;
+  font-weight: 400;
+  margin-top: 2vh;
+}
+
+.inputSection label span{
+  color:red;
+}
+
+.input{
+  height: 6vh;
+  border: 1px solid;
+  border-radius: 5px;
+  margin-top: 2vh;
+  padding-left: 1vw;
+}
+
+.titleLoginSection{
+  display: flex; 
+  justify-content: center;
+  flex-direction: column;
+  align-content: center;
+  align-items: center;
+}
+
+.subTitleLogin{
+  text-align: center;  
+  font-weight: 400;
+  font-size: 10.5px;
+  color: rgb(89, 89, 89);
+}
+
+.titleLogin{
+  color: rgb(102, 102, 102);
+  line-height: 32px;
+  font-size: 21px;
+  font-weight: 700;
+}
+
+.icon{
+  margin-right: 1vw;
+}
+
+.loginButton{
+  background-color: #F80032;
+  color: white;
+  height: 6vh;
+  line-height: 13.8px;
+  border: none;
+  font-weight: 700;
+  font-size: 12px;
+  width: 100%;
+  margin-top: 2vh;
+  border-radius: 5px;
+  font-family: sans-serif;
+}
+
+.links{
+  color: rgb(89, 89, 89);
+}
+
+.sectionCadastro{
+  margin-top: 4vh;
+}
+
+.sectionCadastro p{
+  margin-top: 3vh;
+}
