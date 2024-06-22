@@ -1,8 +1,11 @@
-# React + Vite
+Americanas Login Page (E-commerce)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A login page from Americanas.
 
-Currently, two official plugins are available:
+Technologies:
+ - Java Script
+ - React
+ - React Router DOM
+ - Firebase (Auth)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![image](https://github.com/EderBraganca/AmericanasLogin/assets/88894912/66122957-accc-4e04-8adc-4d0714a44079)
